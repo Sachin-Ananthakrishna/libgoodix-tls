@@ -1,0 +1,13 @@
+# build output
+build/
+*.o
+*.so
+*.a
+
+# editor files
+.vscode/
+.idea/
+*~
+
+# misc
+core
